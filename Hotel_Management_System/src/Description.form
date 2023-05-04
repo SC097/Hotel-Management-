@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Form version="1.3" maxVersion="1.9" type="org.netbeans.modules.form.forminfo.JFrameFormInfo">
+  <Properties>
+    <Property name="defaultCloseOperation" type="int" value="3"/>
+    <Property name="minimumSize" type="java.awt.Dimension" editor="org.netbeans.beaninfo.editors.DimensionEditor">
+      <Dimension value="[1366, 768]"/>
+    </Property>
+    <Property name="undecorated" type="boolean" value="true"/>
+    <Property name="resizable" type="boolean" value="false"/>
+    <Property name="size" type="java.awt.Dimension" editor="org.netbeans.beaninfo.editors.DimensionEditor">
+      <Dimension value="[1366, 768]"/>
+    </Property>
+  </Properties>
+  <SyntheticProperties>
+    <SyntheticProperty name="formSizePolicy" type="int" value="1"/>
+    <SyntheticProperty name="generateCenter" type="boolean" value="false"/>
+  </SyntheticProperties>
+  <AuxValues>
+    <AuxValue name="FormSettings_autoResourcing" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_autoSetComponentName" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_generateFQN" type="java.lang.Boolean" value="true"/>
+    <AuxValue name="FormSettings_generateMnemonicsCode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_i18nAutoMode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_layoutCodeTarget" type="java.lang.Integer" value="1"/>
+    <AuxValue name="FormSettings_listenerGenerationStyle" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_variablesLocal" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_variablesModifier" type="java.lang.Integer" value="2"/>
+    <AuxValue name="designerSize" type="java.awt.Dimension" value="-84,-19,0,5,115,114,0,18,106,97,118,97,46,97,119,116,46,68,105,109,101,110,115,105,111,110,65,-114,-39,-41,-84,95,68,20,2,0,2,73,0,6,104,101,105,103,104,116,73,0,5,119,105,100,116,104,120,112,0,0,3,0,0,0,5,86"/>
+  </AuxValues>
+
+  <Layout class="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout">
+    <Property name="useNullLayout" type="boolean" value="false"/>
+  </Layout>
+  <SubComponents>
+    <Component class="javax.swing.JLabel" name="jLabel1">
+      <Properties>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Algerian" size="48" style="1"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="welcome to dreamy desert suits"/>
+      </Properties>
+      <Constraints>
+        <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+          <AbsoluteConstraints x="188" y="30" width="-1" height="-1"/>
+        </Constraint>
+      </Constraints>
+    </Component>
+    <Component class="java.awt.TextArea" name="textArea1">
+      <Properties>
+        <Property name="cursor" type="java.awt.Cursor" editor="org.netbeans.modules.form.editors2.CursorEditor">
+          <Color id="Text Cursor"/>
+        </Property>
+        <Property name="editable" type="boolean" value="false"/>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Arial" size="12" style="1"/>
+        </Property>
+        <Property name="name" type="java.lang.String" value="" noResource="true"/>
+        <Property name="text" type="java.lang.String" value="&#xa;&#x9;The magazine Dreamy Dessert  was established in Banagalore in 2020 by Premkumar.c,Nasreen Taj,Imran s Publishers. &#xa;&#x9;It absorbed or merged with various other hotel management magazines over the years, including Hotel World,My World, which had been established in 2015. &#xa;&#x9;The magazine sometimes took on other names such as  Marvel Hotel &amp; Motel Hotel, reflecting these mergers or changes in the market.&#xa;&#xa;&#x9;Hotel Management delivered hotel news, analysis and operational strategies. &#xa;&#x9;Regular features included special reports, research/top lists, hot products, technology, furniture, fixtures and equipment, hotel operations, and trends and statistics Existing Customer Discounts.&#xa;&#x9;In January 5 2021, the magazine was redesigned and renamed Hotel is Dreamy Dessert wild.&#xa;&#x9;Following these changes, the magazine began to cover articles about technology, development and trends/statistics.&#xa;&#x9;It is published 3times a year. It was formerly published 10 times per year in 2020. Its headquarters is in Bangalore.&#xa;&#xa;&#xa;&#xa;                                                                           Editor:&#x9;PremKumar.c,Nasreen Taj.M, and Imran.s&#xa;                                                                   Categories:&#x9;Hospitality industry,Veg-NonVeg food, Unlimited buffet along Soft/Hot Drinks, magazines.&#xa;                                                                     Publisher:&#x9;Prem Kumar.c,Nasreen Taj.m &amp; Imran.s&#xa;                                                              Year founded:&#x9;2020&#xa;                                                                    Company:&#x9;PATH TO SUCESS, LIC pvt.ltd &#xa;                                                                       Country:&#x9;INDIA&#xa;                                                                       Based in:&#x9;BANGALORE CITY&#xa;                                                                        Website:&#x9;Hotel Management..&#xa;&#xa;&#xa;       &#x9;&#x9;   Personal information&#xa;&#x9;PREM KUMAR .C Born on 10th August 2000(Age 22)&#xa;&#x9;Nasreen Taj.M Born on 5th Jan 2000 (Age 22)&#xa;&#x9;IMRAN .S Born on 10th Oct 2000 (Age 22)&#xa;&#x9;Location:        Bangalore, India&#xa;&#x9;Nickname:                  BATAs&#xa;&#x9;Relations:                    N/A&#xa;&#xa;         &#x9;&#x9;Domestic team information&#xa;&#x9;&#x9;Years&#x9;                  Team&#xa;&#x9;2019&#x2013;present:&#x9;Bangalore&#xa;&#x9;2022&#x2013;present:&#x9;KR PURAM&#xa;&#xa;           &#x9;  General information&#xa;&#x9;Location:                      High Tech city Bangalore-560036&#xa;&#x9;Coordinates:                Gajendra,Gamana,Gowdru.&#xa;&#x9;Opened:                       14 May 2020&#xa;&#xa;&#xa;&#x9;                       Technical details&#xa;&#x9;Floor: area&#x9;   19 acres of land&#xa;&#x9;Design and construction:       TATA pvt.ltd.&#xa;                     &#xa;                 &#x9; Other information&#xa;&#x9;Number of rooms:                            40&#xa;&#x9;Number of suites:                              11&#xa;&#x9;Number of restaurants:                     7 &#xa;&#xa;&#xa;&#xa;&#x9;contact us:-&#xa;                &#x9;     8792758587&#xa;                   &#x9;  7676667333&#xa;&#xa;&#x9;Address: -&#xa;                 &#x9; Bangalore High Tech city&#xa;                 &#x9; K R Puram, Bangalore-560036.&#xa;&#xa;&#x9;copyright:- The Hotels Information Company Pvt Ltd.&#xa;                  &#x9;   Cookies and Privacy Policy&#xa;                    &#x9; All rights reserved&#xa;&#xa;"/>
+      </Properties>
+      <Constraints>
+        <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+          <AbsoluteConstraints x="10" y="104" width="1346" height="612"/>
+        </Constraint>
+      </Constraints>
+    </Component>
+    <Component class="java.awt.Button" name="button1">
+      <Properties>
+        <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+          <Color blue="99" green="0" red="0" type="rgb"/>
+        </Property>
+        <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+          <Color blue="ff" green="ff" red="ff" type="rgb"/>
+        </Property>
+        <Property name="label" type="java.lang.String" value="view Hotel images"/>
+      </Properties>
+      <AccessibilityProperties>
+        <Property name="AccessibleContext.accessibleName" type="java.lang.String" value="view Hotel images"/>
+      </AccessibilityProperties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="button1ActionPerformed"/>
+      </Events>
+      <Constraints>
+        <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+          <AbsoluteConstraints x="649" y="726" width="130" height="-1"/>
+        </Constraint>
+      </Constraints>
+    </Component>
+    <Component class="javax.swing.JButton" name="jButton1">
+      <Properties>
+        <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+          <Color blue="99" green="0" red="99" type="rgb"/>
+        </Property>
+        <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+          <Color blue="ff" green="ff" red="ff" type="rgb"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="Go Back"/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="jButton1ActionPerformed"/>
+      </Events>
+      <Constraints>
+        <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+          <AbsoluteConstraints x="1283" y="13" width="-1" height="-1"/>
+        </Constraint>
+      </Constraints>
+    </Component>
+  </SubComponents>
+</Form>
